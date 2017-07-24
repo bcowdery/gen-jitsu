@@ -10,6 +10,10 @@ import java.util.Random;
  */
 public class GenJitsu {
 
+    /**
+     * Configures fillers for a type.
+     * @param <T> type
+     */
     public static <T> void configure() {
 
     }
